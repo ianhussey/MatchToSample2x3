@@ -1,0 +1,169 @@
+max_testing,b1_exemplar,c2_exemplar,correct_message,training_criterion,inst_intro,wrong_message,testing_block_length_multiplier,b2_exemplar,inst_testing,training_block_length_multiplier,c1_exemplar,a1_exemplar,inst_training,max_training_and_testing,testing_criterion,a2_exemplar,max_training,sample_category,target_category_right,required_response,target_category_left,trial_description,task.thisRepN,task.thisTrialN,task.thisN,task.thisIndex,training_and_testing.thisRepN,training_and_testing.thisTrialN,training_and_testing.thisN,training_and_testing.thisIndex,training_and_testing.thisTrial,training.thisRepN,training.thisTrialN,training.thisN,training.thisIndex,training.thisTrial,training_trials.thisRepN,training_trials.thisTrialN,training_trials.thisN,training_trials.thisIndex,post_training_loop.thisRepN,post_training_loop.thisTrialN,post_training_loop.thisN,post_training_loop.thisIndex,testing.thisRepN,testing.thisTrialN,testing.thisN,testing.thisIndex,testing_trials.thisRepN,testing_trials.thisTrialN,testing_trials.thisN,testing_trials.thisIndex,post_testing_loop.thisRepN,post_testing_loop.thisTrialN,post_testing_loop.thisN,post_testing_loop.thisIndex,sample,target_left,target_right,response.keys,response.corr,response.rt,total_correct,passed_training,passed_testing,participant,gender,age,frameRate,expName,date1,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a2,b1,left,b2,ab,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,0,0,2,,,,,,,,,,,,,,,,,A2,B2,B1,left,1,0.554321051,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a2,b2,right,b1,ab,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,1,1,3,,,,,,,,,,,,,,,,,A2,B1,B2,right,1,0.594275951,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a1,c2,left,c1,ac,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,2,2,4,,,,,,,,,,,,,,,,,A1,C1,C2,left,1,0.537848949,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a2,c2,right,c1,ac,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,3,3,7,,,,,,,,,,,,,,,,,A2,C1,C2,right,1,0.585594177,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a1,b1,right,b2,ab,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,4,4,1,,,,,,,,,,,,,,,,,A1,B2,B1,right,1,0.621888876,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a1,c1,right,c2,ac,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,5,5,5,,,,,,,,,,,,,,,,,A1,C2,C1,right,1,0.688271999,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a1,b2,left,b1,ab,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,6,6,0,,,,,,,,,,,,,,,,,A1,B1,B2,left,1,0.619624138,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,a2,c1,left,c2,ac,0,0,0,0,0,0,0,0,None,0,0,0,0,None,0,7,7,6,,,,,,,,,,,,,,,,,A2,C2,C1,left,1,0.635891914,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,,,,,,0,0,0,0,0,0,0,0,None,0,0,0,0,None,,,,,0,0,0,0,,,,,,,,,,,,,,,,,,,8,TRUE,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,c1,b2,left,b1,cb,0,0,0,0,0,0,0,0,None,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,C1,B1,B2,left,1,0.741274834,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,c1,b1,right,b2,cb,0,0,0,0,0,0,0,0,None,,,,,,,,,,,,,,0,0,0,0,0,1,1,1,,,,,C1,B2,B1,right,1,0.653156996,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,c2,b1,left,b2,cb,0,0,0,0,0,0,0,0,None,,,,,,,,,,,,,,0,0,0,0,0,2,2,2,,,,,C2,B2,B1,left,1,0.687145948,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,c2,b2,right,b1,cb,0,0,0,0,0,0,0,0,None,,,,,,,,,,,,,,0,0,0,0,0,3,3,3,,,,,C2,B1,B2,right,1,0.920994043,,,,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_20491,B1,C2,Correct,8,"In this task you will learn about nonsense words.
+
+Each trial will present one word at the top of the screen, and two words at the bottom. 
+
+You must press the left or right key to choose between the left or right words presented at the bottom of the screen.
+
+Press any key to continue.",Wrong,1,B2,"Good!
+
+Now respond based on what you have previously learned.
+
+Press any key to continue.",1,C1,A1,"Learn to respond to the words based on the feedback presented.
+
+Press any key to continue.",2,4,A2,10,,,,,,0,0,0,0,0,0,0,0,None,,,,,,,,,,,,,,0,0,0,0,,,,,0,0,0,0,,,,,,,4,,TRUE,1,,,60.69763942,MTS - OtM 2x3,2016_Apr_22_2049
