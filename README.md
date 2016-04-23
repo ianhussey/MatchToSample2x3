@@ -43,3 +43,4 @@ None.
 ## Changelog
 ### 0.7.1
 Forked from MTS 3x3 version 0.7. 
+Removed code for shuffling the location of the second comparison stimulus, all references to the middle stimulus, and altered the stimuli files to refer to left and right stimuli rather than correct and incorrect.

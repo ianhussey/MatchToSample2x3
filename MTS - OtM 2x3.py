@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-This experiment was created using PsychoPy2 Experiment Builder (v1.82.01), Fri Apr 22 20:45:10 2016
+This experiment was created using PsychoPy2 Experiment Builder (v1.82.01), Sat Apr 23 12:12:13 2016
 If you publish work using this script please cite the relevant PsychoPy publications
   Peirce, JW (2007) PsychoPy - Psychophysics software in Python. Journal of Neuroscience Methods, 162(1-2), 8-13.
   Peirce, JW (2009) Generating stimuli for neuroscience using PsychoPy. Frontiers in Neuroinformatics, 2:10. doi: 10.3389/neuro.11.010.2008
@@ -45,7 +45,7 @@ endExpNow = False  # flag for 'escape' or other condition => quit the exp
 # Start Code - component code to be run before the window creation
 
 # Setup the Window
-win = visual.Window(size=[800, 600], fullscr=False, screen=0, allowGUI=True, allowStencil=False,
+win = visual.Window(size=(1366, 768), fullscr=True, screen=0, allowGUI=False, allowStencil=False,
     monitor=u'testMonitor', color=u'black', colorSpace='rgb',
     blendMode='avg', useFBO=True,
     )
@@ -88,14 +88,14 @@ sample_box = visual.TextStim(win=win, ori=0, name='sample_box',
     color='white', colorSpace='rgb', opacity=1,
     depth=-1.0)
 target_left_box = visual.TextStim(win=win, ori=0, name='target_left_box',
-    text='default text',    font=u'Arial',
+    text='default text',    font='Arial',
     pos=[-.3, -.3], height=0.1, wrapWidth=None,
-    color=u'white', colorSpace='rgb', opacity=1,
+    color='white', colorSpace='rgb', opacity=1,
     depth=-2.0)
 target_right_box = visual.TextStim(win=win, ori=0, name='target_right_box',
-    text='default text',    font=u'Arial',
+    text='default text',    font='Arial',
     pos=[.3, -.3], height=0.1, wrapWidth=None,
-    color=u'white', colorSpace='rgb', opacity=1,
+    color='white', colorSpace='rgb', opacity=1,
     depth=-3.0)
 
 # Initialize components for Routine "feedback"
@@ -134,14 +134,14 @@ sample_box = visual.TextStim(win=win, ori=0, name='sample_box',
     color='white', colorSpace='rgb', opacity=1,
     depth=-1.0)
 target_left_box = visual.TextStim(win=win, ori=0, name='target_left_box',
-    text='default text',    font=u'Arial',
+    text='default text',    font='Arial',
     pos=[-.3, -.3], height=0.1, wrapWidth=None,
-    color=u'white', colorSpace='rgb', opacity=1,
+    color='white', colorSpace='rgb', opacity=1,
     depth=-2.0)
 target_right_box = visual.TextStim(win=win, ori=0, name='target_right_box',
-    text='default text',    font=u'Arial',
+    text='default text',    font='Arial',
     pos=[.3, -.3], height=0.1, wrapWidth=None,
-    color=u'white', colorSpace='rgb', opacity=1,
+    color='white', colorSpace='rgb', opacity=1,
     depth=-3.0)
 
 # Initialize components for Routine "post_testing"
