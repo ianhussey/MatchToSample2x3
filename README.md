@@ -75,7 +75,7 @@ Using these settings, participants will complete blocks of 48 (8\*6) training tr
 None.
 
 ## To do
-- Reasonable default parameters must be chosen, e.g., with reference to a specific previous experiment.
+- None
 
 ## Changelog
 ### 0.7.4
