@@ -1,4 +1,4 @@
-# One-to-Many Match to Sample Task for Two Three-Member Classes (MTS - OtM 3x3)
+# One-to-Many Match to Sample Task for Two Three-Member Classes (MTS - OtM 2x3)
 
 ## License
 Copyright (c) Ian Hussey 2016 (ian.hussey@ugent.be)
@@ -79,7 +79,9 @@ None.
 
 ## Changelog
 ### 0.7.4
-Testing by default includes B-C trials now as well as C-B trials, as bidirectionality here is likely to be important. 
+- Testing by default includes B-C trials now as well as C-B trials, as bidirectionality here is likely to be important. 
+- Updated explanation of task parameters appropriately.
+- Updated default task parameters.
 
 ### 0.7.3
 Trial sequence for testing was incorrectly set to sequential. Changed both training and testing to fullRandom.
